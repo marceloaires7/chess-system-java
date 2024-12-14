@@ -7,7 +7,7 @@ Este projeto é um jogo de xadrez baseado em console, escrito em Java. O jogo pe
 - [Introdução](#introdução)
 - [Como Jogar](#como-jogar)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [src/application/Program.java](#src/application/Program.java)
+- [Program.java](#Program.java)
 - [Personalização](#personalização)
 
 ## Introdução
@@ -45,7 +45,7 @@ O projeto está organizado em vários pacotes:
 - `boardgame`: Contém classes relacionadas ao tabuleiro e lógica geral do jogo.
 - `chess`: Contém classes específicas da lógica e regras do jogo de xadrez.
 
-## `src/application/Program.java`
+## `Program.java`
 
 Esta é a classe principal que inicia o jogo, lida com a entrada do usuário e gerencia o loop do jogo.
 
