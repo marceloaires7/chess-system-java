@@ -2,7 +2,7 @@
 
 Este projeto é um jogo de xadrez baseado em console, escrito em Java. O jogo permite que dois jogadores joguem uma partida de xadrez padrão, fornecendo funcionalidades para validação de movimentos, detecção de xeque/xeque-mate, promoção de peças e captura de peças.
 
-![image](https://github.com/user-attachments/assets/2401c459-481f-4bd9-b49f-e139be3c187a) ![{C85CE5BD-0CD3-4B6A-BFD1-59A3D6357A0B}](https://github.com/user-attachments/assets/bab03651-fd09-4e55-a124-ef22bd7b3987) ![{05CF1898-822A-4B31-AB04-B08D549BE60D}](https://github.com/user-attachments/assets/ee2306a3-5912-4505-bdf1-000f8b5c467c)
+<div style="display: flex; gap: 10px;"> <img src="https://github.com/user-attachments/assets/2401c459-481f-4bd9-b49f-e139be3c187a" alt="image" width="200"/> <img src="https://github.com/user-attachments/assets/bab03651-fd09-4e55-a124-ef22bd7b3987" alt="{C85CE5BD-0CD3-4B6A-BFD1-59A3D6357A0B}" width="200"/> <img src="https://github.com/user-attachments/assets/ee2306a3-5912-4505-bdf1-000f8b5c467c" alt="{05CF1898-822A-4B31-AB04-B08D549BE60D}" width="200"/> </div>
 
 ## Sumário
 
