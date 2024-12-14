@@ -7,7 +7,7 @@ Este projeto é um jogo de xadrez baseado em console, escrito em Java. O jogo pe
 - [Introdução](#introdução)
 - [Como Jogar](#como-jogar)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Program.java](#Program.java)
+- [Program.java](#programjava)
 - [Personalização](#personalização)
 
 ## Introdução
