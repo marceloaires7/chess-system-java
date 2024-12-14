@@ -56,9 +56,5 @@ Para personalizar ou estender o jogo, você pode:
 - Ajustar a classe `UI` para diferentes saídas de console ou interações com o usuário.
 - Adicionar novas regras ou modificar as existentes na classe `ChessMatch`.
 
-![image](https://github.com/user-attachments/assets/2401c459-481f-4bd9-b49f-e139be3c187a)
-
-![{C85CE5BD-0CD3-4B6A-BFD1-59A3D6357A0B}](https://github.com/user-attachments/assets/bab03651-fd09-4e55-a124-ef22bd7b3987)
-
-![{05CF1898-822A-4B31-AB04-B08D549BE60D}](https://github.com/user-attachments/assets/ee2306a3-5912-4505-bdf1-000f8b5c467c)
+![image](https://github.com/user-attachments/assets/2401c459-481f-4bd9-b49f-e139be3c187a) ![{C85CE5BD-0CD3-4B6A-BFD1-59A3D6357A0B}](https://github.com/user-attachments/assets/bab03651-fd09-4e55-a124-ef22bd7b3987) ![{05CF1898-822A-4B31-AB04-B08D549BE60D}](https://github.com/user-attachments/assets/ee2306a3-5912-4505-bdf1-000f8b5c467c)
 
